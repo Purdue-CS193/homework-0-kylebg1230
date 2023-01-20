@@ -1,4 +1,8 @@
-# CS 193 Homework 0 - GitHub and Your Own Website!
+# Kyle's First CS193 HW
+
+Best things about CS193
+- No exams
+- Information is explained well
 
 ## What is this assignment
 
